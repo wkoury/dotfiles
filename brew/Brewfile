@@ -34,6 +34,7 @@ brew "stripe/stripe-cli/stripe"
 cask "adobe-acrobat-reader"
 cask "brave-browser"
 cask "cinebench"
+cask "discord"
 cask "dropbox"
 cask "firefox-developer-edition"
 cask "geekbench"
@@ -47,17 +48,15 @@ cask "microsoft-office"
 cask "minecraft"
 cask "notion"
 cask "oversight"
-cask "rstudio"
 cask "sensiblesidebuttons"
-cask "slack"
 cask "spotify"
 cask "steam"
 cask "visual-studio-code"
 cask "zoom"
-mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Notability", id: 736189492
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Wipr", id: 1320666476
 mas "Xcode", id: 497799835
