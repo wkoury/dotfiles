@@ -1,0 +1,11 @@
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20210114T182009Z","tags":["ftq"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20210114T182009Z","tags":["ftq"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20210114T182009Z","end":"20210114T204053Z","tags":["ftq"]}

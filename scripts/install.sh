@@ -1,6 +1,8 @@
- ln dotfiles/zsh/.zshrc
- ln dotfiles/zsh/.p10k.zsh
- ln -s dotfiles/zsh/.oh-my-zsh
+cd ~
+ln dotfiles/zsh/.zshrc
+ln dotfiles/zsh/.p10k.zsh
+ln -s dotfiles/zsh/.oh-my-zsh
+ln -s dotfiles/.timewarrior .timewarrior
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 

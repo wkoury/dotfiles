@@ -113,3 +113,4 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 
 
 eval "$(nodenv init -)"
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
