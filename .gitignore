@@ -1,3 +1,4 @@
 .DS_Store
 .oh-my-zsh/
 brew/Brewfile.lock.json
+.timewarrior/data
