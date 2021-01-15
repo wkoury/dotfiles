@@ -105,6 +105,9 @@ export PATH=/opt/homebrew/bin:$PATH
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias cwd="pwd | pbcopy"
+alias gitam="git commit -am"
+alias c="clear"
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
