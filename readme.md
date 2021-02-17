@@ -1,1 +1,1 @@
-[ ] Create and add vim config
+- [ ] Create and add vim config
