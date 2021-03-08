@@ -4,4 +4,4 @@ set autoindent
 set cursorline
 set showcmd
 nnoremap <leader><space> :nohlsearch<CR>
-
+set mouse=a
